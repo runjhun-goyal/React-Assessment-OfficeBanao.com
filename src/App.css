@@ -1,0 +1,29 @@
+.maincomp{
+    padding:50px 10% ;
+}
+.removing {
+    position: relative;
+    padding: 10px 20px;
+}
+
+.removing:after {
+    content: '';
+    position: absolute;
+    left: 0px;
+    top: 0%;
+    height: 50%;
+    border-left: 1px solid #080808;
+}
+.css-ttwr4n .Mui-selected{
+    background-color: #080808 !important;
+}
+.MuiTabs-indicator{
+    background-color: #080808!important;
+}
+.MuiBox-root .css-1gsv261{
+    border-color: white!important;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root{
+    border-bottom: 2px solid #43434382 !important;
+}
